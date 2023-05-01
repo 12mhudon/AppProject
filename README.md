@@ -1,6 +1,6 @@
-# flask-dashboard-template-2023
+# AppProject 
 
-This is an example full stack web application built in Python with the [Flask](https://github.com/prof-rossetti/intro-to-python/blob/main/notes/python/packages/flask.md) framework. This application displays an interactive data dashboard of stock prices over time.
+Full stack web application built in Python with the [Flask](https://github.com/prof-rossetti/intro-to-python/blob/main/notes/python/packages/flask.md) framework. This application displays *placeholder*
 
 ## Setup
 
@@ -15,7 +15,7 @@ Make a copy of the template repository from GitHub. Clone your copy of the repo 
 Navigate to the local repository from the command line, for example:
 
 ```sh
-cd ~/Desktop/flask-dashboard-template-2023
+cd ~/Desktop/App-Project
 ```
 
 > NOTE: it is important to navigate to the root directory before running any of the commands below.
