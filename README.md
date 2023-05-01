@@ -3,7 +3,11 @@
 Full stack web application built in Python with the [Flask](https://github.com/prof-rossetti/intro-to-python/blob/main/notes/python/packages/flask.md) framework. 
 
 ## Overview
-This application displays *placeholder*
+1. Overview (Delaney)
+2. History (Mike)
+    - timeline of historical Crypto events
+    - 
+3. Crypto Dashboard (Marcelo)
 
 ## Setup
 
