@@ -15,7 +15,12 @@ def about():
     print("ABOUT...")
     #return "About Me"
     return render_template("about.html")
-    
+
+@home_routes.route("/history")
+def history():
+    print("HISTORY...")
+    return render_template("history.html")
+
 @home_routes.route("/hello")
 def hello_world():
     print("HELLO...")
@@ -28,4 +33,4 @@ def hello_world():
     message = f"Hello, {name}!"
 
     #return message
-    return render_template("hello.html", message=message, other="YEAH",x=5)
+    return render_template("hello.html", message=message)

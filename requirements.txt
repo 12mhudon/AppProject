@@ -1,16 +1,23 @@
 
-# for reading environment variables from the ".env" file:
+
+# reading environment vars:
 python-dotenv
 
-# for fetching and processing CSV formatted data:
-pandas
+# web application:
+Flask==2.2.3
 
-# for web application interface:
-Flask
+# auth (login with google via oauth):
+Authlib==1.2.0
+requests # Authlib needs this (see https://github.com/lepture/authlib/issues/365)
 
-# for testing:
-pytest
-beautifulsoup4
+# database (google sheets):
+gspread==5.8.0
 
-# for the production server:
+# for collecting and running tests:
+#pytest
+
+# for parsing the contents of visited pages:
+#beautifulsoup4
+
+# for running the app on a production server:
 gunicorn
