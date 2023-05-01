@@ -1,8 +1,6 @@
-# flask-sheets-starter-2023
+# flask-dashboard-template-2023
 
-This is an example full stack web application built in Python with the Flask framework. This application implements Google Login and interfaces with a Google Sheets datastore.
-
-<img width="750" alt="Screenshot 2023-04-19 at 8 10 15 PM" src="https://user-images.githubusercontent.com/1328807/233225795-2bac1806-37de-4981-a635-bfef72506ad5.png">
+This is an example full stack web application built in Python with the [Flask](https://github.com/prof-rossetti/intro-to-python/blob/main/notes/python/packages/flask.md) framework. This application displays an interactive data dashboard of stock prices over time.
 
 ## Setup
 
@@ -17,7 +15,7 @@ Make a copy of the template repository from GitHub, as necessary. Clone your cop
 Navigate to the local repository from the command line, for example if on the Desktop:
 
 ```sh
-cd ~/Desktop/flask-sheets-starter-2023
+cd ~/Desktop/flask-dashboard-template-2023
 ```
 
 > NOTE: it is important to navigate to the root directory before running many of the commands below.
